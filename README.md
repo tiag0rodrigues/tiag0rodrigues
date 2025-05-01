@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá!
+
+- Meu email: rodrigues123tiago@gmail.com
 
 <!--
 **tiag0rodrigues/tiag0rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
