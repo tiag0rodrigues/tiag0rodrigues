@@ -1,6 +1,7 @@
 ## Tiago aqui :)
 
 - 🔭 Desenvolvimento web
+- 🧠 Machine Learning
 - 📫 Meu email: rodrigues123tiago@gmail.com
 
 <!--
